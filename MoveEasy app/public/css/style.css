@@ -1,0 +1,25 @@
+@media screen and (max-width: 720px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    #body-reloadeing {
+        background-color: #f00;
+    }
+
+    #body-reloaded {
+        background-color: #fff;
+    }
+
+    .footer-map {
+        max-width: 100vw;
+        min-height: 27vh;
+    }
+
+    .section-footer-map {
+        position: relative;
+        top: 7.8rem;
+    }
+}
